@@ -32,7 +32,7 @@ A basic blog web application created using *HTML, **CSS, and **JavaScript*. It a
 1. *Download or Clone the Repository*
 
 ```bash
-git clone https://github.com/manshigupta/blog-website.git
+git clone https://github.com/manshigupta121/MYBLOG_WEB
 cd blog-website
 
 2. Open index.html in a browser
